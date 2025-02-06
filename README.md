@@ -1,4 +1,4 @@
-# Awesome System Instructions and Prompts
+# System Instructions and Prompts
 
 This repository is a curated collection of system instructions and prompts for large language models (LLMs), designed to help you unlock the full potential of AI. Whether you're a beginner or an expert, you'll find valuable resources and examples to guide you in crafting effective instructions and prompts for various tasks and applications.
 
